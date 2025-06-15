@@ -1,4 +1,4 @@
- -- Create the contact submissions table
+ 
 CREATE TABLE IF NOT EXISTS contact_submissions (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(255) NOT NULL,
