@@ -11,7 +11,3 @@ HOSTED_ZONE = "chubiresume.com"
 project_id      = "your-gcp-project-id"
 container_image = "gcr.io/your-project-id/resume-app:latest"
 domain_name     = "your-domain.com"  # Optional: Set if you have a custom domain
-
-# Note: Do not store sensitive values in this file
-# Instead, use environment variables:
-# export TF_VAR_db_password="your-secure-password"
